@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lanceRLProjects
 - 👀 I’m interested in ... cybersecurity, game development, web and app development
-- 🌱 I’m currently learning ... Kali Linux, Network+, A+, Ethical Hacking, 
+- 🌱 I’m currently learning ... Kali Linux, Network+, A+, C++, Python Ethical Hacking, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
